@@ -1,0 +1,8 @@
+title: Wft999.GitHub.io
+description: test website
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-merlot
+
+gems:
+  - jekyll-mentions
